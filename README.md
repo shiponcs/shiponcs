@@ -13,7 +13,10 @@
 
   <img color="white" src="https://i.giphy.com/media/PjJ1cLHqLEveXysGDB/200.webp" width="200">
   
+  <br>
   
+  <img  height=160 src="https://github-readme-stats.vercel.app/api?username=shiponcs&count_private=true&bg_color=FFA500&text_color=191970&title_color=ffff&hide=stars&custom_title=GitHub%20Statistics"/>
+<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiponcs&layout=compact&theme=highcontrast&bg_color=FFA500&&text_color=19197&title_color=ffff"/>
 </p>
 <br>
 <p style="font-size:200%; color: peru">🌱 I’m currently learning <b>Machine Learning</b> to integrate with Softwares</p>
