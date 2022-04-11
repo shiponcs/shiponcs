@@ -3,10 +3,10 @@
 <br>
 <p align="center" style="font-size:200%; color: peru"> 🔭 I work with:</p>
 <p align="center">
-  
+  <img src="https://i.pinimg.com/originals/e9/cd/86/e9cd862edd43a52271dbafc3d906b856.gif" width="100" height="100">
   <img src="https://servreality.com/wp-content/uploads/2020/07/C.gif" width="100" height="100" />
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" >
-  <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/05/162141985401-webrtc-signaling.gif" width="100" height="100" >
+  
   <img src="https://thumbs.gfycat.com/InconsequentialMenacingBrocketdeer-size_restricted.gif" height="100" width="100">
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
   <!-- <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"> -->
@@ -14,7 +14,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   
   <br>
-  <img src="https://i.pinimg.com/originals/e9/cd/86/e9cd862edd43a52271dbafc3d906b856.gif" width="100" height="100">
+ <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/05/162141985401-webrtc-signaling.gif">
   <img color="white" src="https://i.giphy.com/media/PjJ1cLHqLEveXysGDB/200.webp" width="200">
   
   <br>
