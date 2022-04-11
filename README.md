@@ -15,7 +15,7 @@
   
   <br>
  
-  <img color="white" src="https://i.giphy.com/media/PjJ1cLHqLEveXysGDB/200.webp" width="200">
+  <!-- <img color="white" src="https://i.giphy.com/media/PjJ1cLHqLEveXysGDB/200.webp" width="200"> -->
   
   <br>
   
