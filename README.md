@@ -23,7 +23,7 @@
 <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiponcs&layout=compact&theme=highcontrast&bg_color=FFA500&&text_color=19197&title_color=ffff"/>
 </p>
 <br>
-<p style="font-size:200%; color: peru">🌱 I’m currently learning <b>Machine Learning</b> to integrate with Softwares</p>
+<p style="font-size:200%; color: peru">🌱 I’m currently learning/working <b>DPDK, eBPF, and XDP</b> to improve the performance of Networking Softwares</p>
 <p style="font-size:200%; color: peru">⚡ I love <i>Unix-like OS</i> (especially Linux) and to play with <i>CLI</i> </p>
 <p style="font-size:200%; color: peru">📫 How to reach me by mail: <span style="color:blue"> abdulmatincuetcse17@gmail.com<span></p>
 <br>
