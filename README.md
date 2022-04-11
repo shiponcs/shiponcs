@@ -9,6 +9,8 @@
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://images.pling.com/img/00/00/55/86/05/1442245/24647f211b4887364973b9958bed65676de92a8d7b2cf31af3e3297a9d74b8ab037e.gif" width="100">
+  
   <br>
 
   <img color="white" src="https://i.giphy.com/media/PjJ1cLHqLEveXysGDB/200.webp" width="200">
