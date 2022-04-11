@@ -3,7 +3,7 @@
 <br>
 <p align="center" style="font-size:200%; color: peru"> 🔭 I work with:</p>
 <p align="center">
-  <img src="https://static.wixstatic.com/media/f4f1bc_f09764a22f5043678f1ed6fd36fe2244~mv2.gif" width="100">
+  <img src="https://static.wixstatic.com/media/f4f1bc_f09764a22f5043678f1ed6fd36fe2244~mv2.gif" width="100" height="100">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" >
   <img src="https://thumbs.gfycat.com/InconsequentialMenacingBrocketdeer-size_restricted.gif" height="100" width="100">
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
